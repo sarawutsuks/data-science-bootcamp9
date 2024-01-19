@@ -1,0 +1,13 @@
+Homework in SQL
+
+Pizza restaurant
+
+1. create at lease 3 tables
+- customers
+- orders
+- menu (pizza)
+
+2. three SQL queries
+- Join
+- Subqueries or WITH
+- Aggregate Function
