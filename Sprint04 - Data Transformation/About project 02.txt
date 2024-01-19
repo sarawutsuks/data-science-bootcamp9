@@ -1,0 +1,2 @@
+ตั้งคำถาม 5 ข้อจาก flightsdataframe 300K records 
+ตอบคำถาม โดยใช้ library dplyr ในการ transform data ในการหาคำตอบ
