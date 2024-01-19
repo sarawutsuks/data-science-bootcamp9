@@ -7,7 +7,7 @@ Pizza restaurant
 - orders
 - menu (pizza)
 
-2. three SQL queries
+2. wirte three SQL queries
 - Join
 - Subqueries or WITH
 - Aggregate Function
