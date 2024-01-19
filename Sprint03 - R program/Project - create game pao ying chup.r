@@ -7,7 +7,7 @@ game_pao_ying_chup <- function(){
   loss <- 0
   
   while (TRUE) {
-    user <- readline("You: ")  # input
+    user <- readline("You [hammer, scissor, paper]: ")  # input
     # if user กรอกที่มีใน choice ค่า x = 1
     x <- ifelse(user == choice, 1, 0) 
     if (sum(x) == 1){
