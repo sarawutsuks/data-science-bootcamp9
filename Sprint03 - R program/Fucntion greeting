@@ -1,0 +1,16 @@
+greeting <- function() {    # ไม่ต้องรับ input
+  print('Hello World')      # return 'Hello World'
+}
+
+greeting_name <- function(name){  # รับ input name / name คือ parameter
+  print(paste('Hello!', name))    # return "Hello! name" 
+}
+
+greeting_name('Jing')   # return "Hello! Jing"
+
+func <- function() {        # รวม function
+  greeting()
+  greeting_name("Jing")
+} 
+
+func()   
