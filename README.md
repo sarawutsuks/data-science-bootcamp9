@@ -1,19 +1,17 @@
 # Data Science Bootcamp Batch 9
-comingsoon.
 
-## Part1
-- Intro to data science
+I am currently taking the 9th Data Science Bootcamp course.
+
+The course is divided into 10 sprints.
 - Spreadsheets
-- SQL databases
-- R programming
+- Databases
+- R Programming
 - Data Transformation
 - Data Visualization
-
-## Part2
-- Building website portfolio
 - Essential Statistics
-- Machine Learning
-- R programming
+- Essential Machine Learning
+- Python Programming
 - Essential Python for Data Analyst
-- Dashboard with Looker Studio
-  
+- Dashboard
+
+I will be using this GitHub repository to store the code for each project.
