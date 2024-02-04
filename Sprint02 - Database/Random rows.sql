@@ -1,0 +1,5 @@
+SELECT
+  name
+FROM tracks
+ORDER BY RANDOM()
+LIMIT 10;
